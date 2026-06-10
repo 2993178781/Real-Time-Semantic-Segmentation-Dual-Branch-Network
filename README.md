@@ -89,5 +89,3 @@ The source code and configuration files are provided in this repository. The ori
 If you use this code, please cite the related manuscript:
 
 The Real-Time Semantic Segmentation of Complex Road Scenes Based on a Dual-Branch Network.
-# Real-Time-Semantic-Segmentation-Dual-Branch-Network
-Code for real-time semantic segmentation of complex road scenes using a dual-branch network with AFEM and self-training domain adaptation.
