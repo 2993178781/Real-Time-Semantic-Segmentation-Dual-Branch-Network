@@ -173,7 +173,7 @@ https://github.com/2993178781/Real-Time-Semantic-Segmentation-Dual-Branch-Networ
 
 Supplementary files associated with this study have been deposited in Zenodo and are available at:
 
-https://doi.org/10.5281/zenodo.20630713
+[https://doi.org/10.5281/zenodo.20630713](https://zenodo.org/uploads/20630713)
 
 The original Cityscapes and Foggy & Rainy Cityscapes datasets are not redistributed in this repository due to dataset license restrictions. Researchers should obtain these datasets from their official sources.
 
